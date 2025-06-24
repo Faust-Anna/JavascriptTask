@@ -1,3 +1,5 @@
 Hier ist eine Liste
 rot
 grün
+pink
+rosa
