@@ -3,3 +3,5 @@ rot
 grün
 pink
 rosa
+Thomas
+Kai
